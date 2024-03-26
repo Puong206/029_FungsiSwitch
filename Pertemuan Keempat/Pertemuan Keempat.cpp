@@ -7,8 +7,8 @@ void input()
 {
     cout << "Masukan Bilangan Pertama = ";
     cin >> bilA;
-    cout << "Masukan Bilangan Kedua = "
-        cin >> bilB;
+    cout >> "Masukan Bilangan Kedua = ";
+    cin >> bilB;
 }
 
 int main()
